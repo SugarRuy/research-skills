@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Editorial Refinement"
+  short_description: "Resolve reading obstacles while preserving scientific meaning"
+  default_prompt: "Use $paper-editorial-refinement to refine this manuscript by resolving specific reading obstacles and coordinating related text, equations, tables, and appendix material within my requested scope."
